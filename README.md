@@ -1,4 +1,4 @@
-# webpack-server-side-rendering-react-typescript
+# webpack-ssr-react-typescript
 
 Webpack 4 simple boilerplate for Server Side Rendering with Node, React 16 with Typescript 3 & SASS
 
